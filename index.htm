@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Dance Roads Mapping Prooject</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <link rel="stylesheet" href="css/styles.css">
+
+    <!-- Scripts -->
+    
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    <!-- Dataset source files -->
+    <script src="js/libs/miso.ds.deps.min.0.3.0.js"></script>
+    <!-- jQuery -->
+    <script type="text/javascript" src="js/libs/jquery-1.10.2.js"></script>
+    <!-- Your application code -->
+    <script src="js/data.js"></script>
+    <script src="js/map.js"></script>
+  </head>
+  <body onload="initialize()" class="en">
+  
+      <div class="content container">
+
+      <h1 class="en">Dance Roads: Mapping European Dance Networks</h1>
+      <h1 class="fr">Carte des réseaux de danse européens réalisée par Dance Roads</h1>
+      <h1 class="de">Bestandsaufnahme der europäischen Tanznetzwerke im Auftrag von Dance Roads</h1>
+      <h1 class="it">Mappatura Delle Reti Di Danza Europee</h1>
+
+      <select role="navigation" name="networks" id="networkSelect">
+        <option selected>Show All</option>
+      </select>
+      <div class="project-info">
+        <p class="en"><a href="http://danceroads.eu">The Dance Roads</a> network has commissioned this mapping study of cross-border dance networks in Europe and beyond. Funded through the European Culture Programme, it provides a window into current dance network activities and identifies hot spots and gaps in provision. Individuals and organisations can use this tool to help them approach potential new partners and see touring opportunities. You are able to click on different dance companies and venues and find out which networks they belong to.</p>
+
+        <p class="fr"><a href="http://danceroads.eu">Le réseau Dance Roads</a> a fait réaliser cette étude des réseaux de danse en Europe. Financée par le biais du Programme européen de la culture, elle permet de connaître les activités des réseaux de danse actuels et de repérer les lacunes. Les individus et les organisations peuvent utiliser cet outil pour identifier de nouveaux partenaires potentiels et des opportunités de recherche en Europe.</p>
+        
+        <p class="de"><a href="http://danceroads.eu">Das Dance Roads Netzwerk</a>  hat die vorliegende Bestandsaufnahme von Tanznetzwerken in Europa in Auftrag gegeben. Das vom EU-Kulturprogramm finanzierte Projekt liefert einen Einblick in das, was die einzelnen Tanznetzwerke derzeit zu bieten haben, und ermittelt Schwachpunkte bzw. Lücken im Angebot. Privatpersonen und Organisationen können anhand dieses Tools potenzielle neue Partner sowie Chancen vertiefter Forschung innerhalb Europas ausfindig machen. Klicken Sie auf die einzelnen Tanzorganisationen, Kompanien und Veranstaltungsorte, um zu erfahren, welchen Netzwerken diese angehören.</p>
+        
+        <p class="it"><a href="http://danceroads.eu">La rete Dance Roads</a> ha commissionato questo studio di rilevamento delle reti di danza transfrontaliere in Europa e oltre. Finanziato attraverso il programma Cultura europea, fornisce una finestra in corso le attività di rete di ballo e identifica i punti caldi e le lacune nella fornitura. Gli individui e le organizzazioni possono utilizzare questo strumento per aiutarli a avvicinano potenziali nuovi partner e vedere le opportunità di turismo. Siete in grado di fare clic su diverse aziende e locali da ballo e di scoprire che le reti a cui appartengono. Stiamo ancora raccogliendo i dati.</p>
+      </div>
+
+      <div class="network-info">
+      </div>
+      
+
+     
+    </div>
+
+    <form id="switcher" class="languages flags">
+      <input name="language" id="en" value="en" type="radio" checked><label class="flag en" for="en" title="English"></label>
+      <input name="language" id="fr" value="fr" type="radio"><label class="flag fr" for="fr" title="Francais"></label>
+      <input name="language" id="de" value="de" type="radio"><label class="flag de" for="de" title="Deutsch"></label>
+      <input name="language" id="it" value="it" type="radio"><label class="flag it" for="it" title="Italiano"></label>
+    </form>
+    
+    <span><div id="map-canvas" /></span>
+    
+
+
+  </body>
+</html>
+
+
+

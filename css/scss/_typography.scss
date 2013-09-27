@@ -1,0 +1,42 @@
+// All typography
+
+@import url("fonts/RawengulkSans/RawengulkSans.css");
+
+$brand-main: #5fafc1;
+$text: #333333;
+$color-link:#0a8396;
+
+$font_brand: 'rawengulksansregular'; 
+
+@mixin linklook{
+	color: $color-link;
+	cursor:pointer;
+	text-decoration: underline;
+}
+
+a{
+	@include linklook
+}
+
+body{
+	font-family:'Helvetica Neue', Helvetica, Arial, sans;
+	color: $text;
+}
+
+h1, h2{
+	font-family: $font_brand; 
+	color:$brand-main;
+	font-weight:normal;
+	line-height:1;
+	padding:0 0 0.5em;
+	border-bottom:solid 1px;
+	margin:0;
+}
+
+h2{
+	padding-top:0.5em;
+}
+
+.link{
+	cursor:pointer;
+}

@@ -1,0 +1,69 @@
+// Icons
+
+@import url("fonts/icons.css");
+
+
+$icons: org-size, projects, shows, venue;
+
+$color-org-size: #0a960a;
+$color-projects: #0a8396;
+$color-shows: 	 #c80a0a;
+$color-venue:   #960a8a;
+
+.icon.info{
+	float:right;
+	&:before{
+	background-color:silver;
+	content:"i";
+}
+
+}
+
+
+.icon.org-size:before, .icon.members:before{
+	background-color:$color-org-size;
+	content: "\e003";
+}
+.icon.projects:before{
+	background-color:$color-projects;
+	content: "\e002";
+}
+.icon.shows:before{
+	background-color:$color-shows;
+	content: "\e001";
+}
+.icon.venue:before{
+	background-color:$color-venue;
+	content: "\e000";
+}
+
+
+
+.icons{
+	display:block;
+	overflow:hidden;
+}
+
+.icon{
+	line-height:2;
+	display:block;
+	float:left;
+	margin-right:0.5em;
+	overflow:hidden;
+	cursor: help;
+	&:before{
+		text-align:center;
+		color:#FFF;
+		font-family: 'dr-icons';
+		display:block;
+		float:left;
+		width:2em;
+		height:2em;
+		border-radius:50%;
+		margin-right:0.5em;
+	}
+}
+
+.networklink{
+	@include linklook
+}

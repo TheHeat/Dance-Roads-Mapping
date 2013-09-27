@@ -1,0 +1,27 @@
+@mixin breakpoint($break){
+	@if $break == tablet{
+		@media screen and (min-width: 30em){@content;}
+	}@else if $break == desktop{
+		@media screen and (min-width: 50em){@content;}
+	}
+}
+
+.content{
+	position:absolute;
+	bottom:0;
+	left:0;
+	right:0;
+	z-index:20;
+	@include breakpoint(desktop){
+		top:0;
+		bottom:0;
+		left:0;
+		width:20em;
+	}
+}
+
+.container{
+	background:#fff;
+	padding:1em;
+	box-shadow:0 0 0.5em rgba(50,50,50, 0.5);
+}

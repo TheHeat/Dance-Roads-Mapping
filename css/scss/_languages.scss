@@ -1,0 +1,155 @@
+// Switch visibilty based on body class
+
+$languages: en, fr, de, it;
+
+@each $language in $languages{
+
+  p.#{$language}, h1.#{$language}{
+    display:none;
+  }
+
+  .#{$language} p.#{$language},  .#{$language} h1.#{$language}{
+    display: block;
+  }
+   
+}
+
+#switcher{
+  position:absolute;
+  bottom:0;
+  right:0;
+  padding:0.5em;
+  z-index:10;
+}
+
+// Flag buttons
+
+.flags{
+  font-size:2em;
+  line-height:1;
+  margin:0;
+  padding:0;
+  list-style: none;
+  input{
+    display: none;
+  }
+}
+.flag{
+  box-sizing:content-box;
+  display:block;
+  position:relative;
+  width:1em;
+  height:1em;
+  border:solid #ddd;
+  margin:0 0 0.25em ;
+  background:#fff;
+  border-radius:50%;
+  overflow:hidden;
+  cursor:pointer;
+  opacity:0.5;
+  &:hover{
+    opacity:0.8;
+  }
+}
+
+input[type=radio]:checked + .flag{
+  opacity:1;
+}
+
+/* UK */
+.flag.en{
+  background:rgb(200,10,10);
+  &:before{
+    display:block;
+    content:"";
+    width:0;
+    height:0;
+    position:absolute;
+    left:.5em;
+    border-style: solid;
+    border-width: 0 0 .5em 1em;
+    border-color: transparent  transparent  transparent rgb(10,100,150);
+    box-shadow:0 0 0 .125em #fff;
+  }
+  &:after{
+    display:block;
+    content:"";
+    position:absolute;
+    background:#fff;
+    width:.125em;
+    height:.65em;
+    left:66%;
+    -webkit-transform:rotate(60deg);
+    -moz-transform:rotate(60deg);
+    -o-transform:rotate(60deg);
+    -ms-transform:rotate(60deg);
+    transform:rotate(60deg);
+  }
+}
+
+
+/* Francais FR */
+.flag.fr{
+  &:before{
+    background:rgb(10,100,150);
+    display:block;
+    position:absolute;
+    bottom:0;
+    content:"";
+    width:.333em;
+    height:1em;
+  }
+  &:after{
+    display:block;
+    content:"";
+    width:.333em;
+    height:1em;
+    float:right;
+    background:rgb(200,10,10);
+  }
+}
+
+/* Italiano IT */
+
+.flag.it{
+
+  &:before{
+    background:rgb(10,150,10);
+    display:block;
+    position:absolute;
+    bottom:0;
+    content:"";
+    width:.333em;
+    height:1em;
+  }
+  &:after{
+    display:block;
+    content:"";
+    width:.333em;
+    height:1em;
+    float:right;
+    background:rgb(200,10,10);
+  }
+}
+
+
+/* Deutchland DE */
+.flag.de{
+  background:rgb(200,10,10);
+  &:before{
+    background:rgb(255,200,0);
+    display:block;
+    position:absolute;
+    bottom:0;
+    content:"";
+    width:1em;
+    height:.333em;
+  }
+  &:after{
+    display:block;
+    content:"";
+    width:1em;
+    height:.333em;
+    background:rgb(0,0,0);
+  }
+}

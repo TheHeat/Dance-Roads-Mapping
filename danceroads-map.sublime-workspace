@@ -1,0 +1,789 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"class",
+				"className"
+			],
+			[
+				"get",
+				"getQueryVar"
+			],
+			[
+				"ne",
+				"networkBlurb"
+			],
+			[
+				"net",
+				"networkChoice"
+			],
+			[
+				"pr",
+				"project-info"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"geo",
+				"geocode"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"ha",
+				"handleLocation"
+			],
+			[
+				"g",
+				"geocoder"
+			],
+			[
+				"map",
+				"maps"
+			],
+			[
+				"colo",
+				"color-link"
+			],
+			[
+				"co",
+				"color-link"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"link",
+				"linkTxt"
+			],
+			[
+				"u",
+				"updateNetworkChoice"
+			],
+			[
+				"mem",
+				"membership"
+			],
+			[
+				"member",
+				"memberOf"
+			],
+			[
+				"ven",
+				"venArray"
+			],
+			[
+				"org",
+				"orgContent"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"networ",
+				"networksMap"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"sidebar",
+				"sidebarDIV"
+			],
+			[
+				"color",
+				"color-ground"
+			],
+			[
+				"map-",
+				"map-gutter"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"footer",
+				"footer-wrap"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"color-me",
+				"color-me-positive"
+			],
+			[
+				"te",
+				"text-shadow-up"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"text-shadow",
+				"text-shadow-up"
+			],
+			[
+				"OPT",
+				"opt_1"
+			],
+			[
+				"ic",
+				"iconOffset"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"home",
+				"homepage"
+			],
+			[
+				"the_t",
+				"the_title"
+			],
+			[
+				"ech",
+				"echo	echo \"…\""
+			],
+			[
+				"wp_res",
+				"wp_reset_postdata"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"the_p",
+				"the_post"
+			],
+			[
+				"plac",
+				"Placeholder"
+			],
+			[
+				"get_template",
+				"get_template_part"
+			],
+			[
+				"ga",
+				"galleria_theme"
+			],
+			[
+				"get_styl",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"wp_register",
+				"wp_register_script"
+			],
+			[
+				"nav",
+				"nav-toggle"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/data.js",
+			"settings":
+			{
+				"buffer_size": 10071,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/scss/_languages.scss",
+			"settings":
+			{
+				"buffer_size": 2354,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.htm",
+			"settings":
+			{
+				"buffer_size": 4508,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Marc/AppData/Local/Temp/fz3temp-2/.htaccess",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/scss/_layout.scss",
+			"settings":
+			{
+				"buffer_size": 459,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"sftp",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"fe",
+				"Fetch: Manage"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"synt",
+				"Set Syntax: Sass"
+			],
+			[
+				"synts",
+				"Set Syntax: Sass"
+			],
+			[
+				"br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sw",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sft",
+				"SFTP: Setup Server…"
+			],
+			[
+				"bro",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"sf",
+				"SFTP: Setup Server…"
+			],
+			[
+				"remo",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"prefi",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"fetc",
+				"Fetch: Package"
+			],
+			[
+				"",
+				"Fetch: Manage"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Marc/Dropbox/Clients/Dance Roads/mapping-project/js/map.js",
+		"/C/Users/Marc/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Users/Marc/Dropbox/Clients/Dance Roads/mapping-project/sftp-config.json",
+		"/C/wamp/www/danceroads/sftp-config.json",
+		"/C/Users/Marc/AppData/Local/Temp/fz3temp-2/.htaccess.backup",
+		"/C/Users/Marc/Dropbox/Clients/Dance Roads/mapping-project/css/scss/_typography.scss",
+		"/C/Users/Marc/Dropbox/Clients/Dance Roads/mapping-project/css/scss/_icons.scss",
+		"/C/Users/Marc/Dropbox/Clients/Dance Roads/mapping-project/css/scss/_languages.scss",
+		"/C/Users/Marc/Dropbox/Clients/Dance Roads/mapping-project/index.htm",
+		"/C/Users/Marc/Dropbox/Clients/Dance Roads/mapping-project/js/data.js",
+		"/C/Users/Marc/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/Users/Marc/Dropbox/Clients/Dance Roads/mapping-project/spreadsheet.js",
+		"/C/Users/Marc/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/Marc/AppData/Local/Temp/fz3temp-1/error_log",
+		"/C/Users/Marc/AppData/Local/Temp/fz3temp-2/wp-config 2.php",
+		"/C/Users/Marc/AppData/Local/Temp/fz3temp-1/wp-config 2.php",
+		"/C/Users/Marc/AppData/Local/Temp/fz3temp-1/wp-config.php.backup",
+		"/C/Users/Marc/Dropbox/Clients/Dance Roads/mapping-project/danceroads-map.sublime-project",
+		"/E/Dropbox/Clients/Dance Roads/mapping-project/index.htm",
+		"/E/Dropbox/Clients/Dance Roads/mapping-project/css/scss/_languages.scss",
+		"/E/Dropbox/Clients/Dance Roads/mapping-project/css/scss/_forms.scss",
+		"/E/Dropbox/Clients/Dance Roads/mapping-project/css/scss/styles.scss",
+		"/E/Dropbox/Clients/Dance Roads/mapping-project/css/scss/_layout.scss",
+		"/E/Dropbox/Clients/Dance Roads/mapping-project/css/scss/_typography.scss",
+		"/E/Dropbox/Clients/Dance Roads/mapping-project/js/map.js",
+		"/E/Dropbox/Clients/Dance Roads/mapping-project/js/data.js",
+		"/E/Dropbox/Clients/Dance Roads/mapping-project/css/scss/_map.scss",
+		"/E/Dropbox/Clients/Dance Roads/mapping-project/danceroads-map.sublime-workspace",
+		"/E/Dropbox/Clients/Forest Forge/map-app/kirk-changes/index.php",
+		"/E/Dropbox/Clients/Dance Roads/mapping-project/spreadsheet.js",
+		"/E/Dropbox/Clients/Dance Roads/mapping-project/organisations.json",
+		"/E/wamp/www/forestforge/freefolk/get_map_array_json.php",
+		"/C/Users/Marc/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/E/wamp/www/forestforge/freefolk/scripts/mapPin.js",
+		"/E/wamp/www/danceroads/cms/wp-content/themes/danceroads/template-map.php",
+		"/E/Dropbox/Clients/Dance Roads/mapping-project/generated.html",
+		"/E/wamp/www/bouldersuk/bouldersuk.sublime-project",
+		"/E/wamp/www/bouldersuk/sftp-config.json",
+		"/C/Users/Marc/AppData/Roaming/Sublime Text 2/Packages/SFTP/SFTP.default-config",
+		"/E/wamp/www/forestforge/freefolk/css/scss/_flags.scss",
+		"/E/wamp/www/forestforge/freefolk/css/scss/_layout.scss",
+		"/E/wamp/www/forestforge/freefolk/css/scss/_branding.scss",
+		"/E/wamp/www/forestforge/freefolk/css/styles.css",
+		"/E/wamp/www/forestforge/freefolk/index.php",
+		"/E/wamp/www/forestforge/freefolk/newflag.php",
+		"/E/wamp/www/forestforge/freefolk/map.php",
+		"/E/wamp/www/forestforge/freefolk-map.sublime-project",
+		"/E/wamp/www/danceroads/index.php",
+		"/E/wamp/www/danceroads/cms/wp-config.php",
+		"/E/wamp/www/forestforge/.gitignore",
+		"/E/wamp/www/danceroads/.gitignore",
+		"/E/Dropbox/Public/ip-performance/Email Template/email-template.html",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/front-page.php",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/modules/slider-featured-posts.php",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/style.css",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/js/galleria/themes/mumsndads/galleria.mumsndads.css",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/modules/recent-activity.php",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/js/galleria/themes/mumsndads/galleria.mumsndads.js",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/single.php",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/sidebar-homepage.php",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/archive.php",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/author.php",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/category.php",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/index.php",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/page.php",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/search.php",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/tag.php",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/template-demo.php",
+		"/E/Dropbox/BLC/BLC BOOK images and text/Dough Spellacey copy/MASKS Info.docx",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/functions.php",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/header.php",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/searchform.php",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/loop.php",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/comments.php",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/404.php",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/footer.php",
+		"/E/wamp/www/mumsdads/wp-content/themes/mumsdads/sidebar.php",
+		"/E/wamp/www/mumsdads/wp-content/sftp-config.json",
+		"/C/Users/Marc/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/mumsanddads.default",
+		"/C/Users/Marc/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/C/Users/Marc/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/mumsanddads.sftp",
+		"/wp-content/themes/mumsdads/header.php",
+		"/C/Users/Marc/AppData/Roaming/Sublime Text 2/Packages/User/WordPressDev.sublime-settings",
+		"/C/Users/Marc/AppData/Roaming/Sublime Text 2/Packages/WordpressDev/WordPressDev.sublime-settings",
+		"/C/Users/Marc/AppData/Roaming/Sublime Text 2/Packages/Prefixr/Default (Windows).sublime-keymap",
+		"/C/Users/Marc/AppData/Roaming/Sublime Text 2/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/C/Users/Marc/AppData/Roaming/Sublime Text 2/Packages/User/AdvancedNewFile.sublime-settings",
+		"/E/wamp/www/mumsdads/__tmp_package.zip",
+		"/E/Dropbox/Web Projects/boulders/sftp-config.json",
+		"/E/Dropbox/Web Projects/boulders/themes/boulders/functions.php",
+		"/C/Users/Marc/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 55.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".flag.",
+			"www",
+			"http://",
+			"class",
+			"transform",
+			"transition",
+			"iwContent",
+			"latlon",
+			".[",
+			"citymap",
+			"Opaorg",
+			"city",
+			"Miso",
+			"\"id\"",
+			"type",
+			"},",
+			"\"author\"",
+			"\"description\"",
+			"\"mtype\"",
+			"\"type\"",
+			"{",
+			"[x]",
+			"organisation ",
+			"organisation",
+			"population",
+			"city",
+			"citymap",
+			"place of",
+			"place",
+			"a place of",
+			"$spacer",
+			"indent",
+			"color-text",
+			"box-shadow: 0 0 1em rgba(50,50,50,.5);",
+			"$x",
+			"$y",
+			"y_axis",
+			"x_axis",
+			"optionsy",
+			"optionsx",
+			".png",
+			"geo",
+			"home_geo",
+			"bridgend_geo",
+			"icon",
+			"iconUrl",
+			"icon",
+			"top_four",
+			"html5blank"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/data.js",
+					"settings":
+					{
+						"buffer_size": 10071,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								993,
+								993
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 485.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/scss/_languages.scss",
+					"settings":
+					{
+						"buffer_size": 2354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								246,
+								246
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 26.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.htm",
+					"settings":
+					{
+						"buffer_size": 4508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								736,
+								736
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 132.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Marc/AppData/Local/Temp/fz3temp-2/.htaccess",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4356.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/scss/_layout.scss",
+					"settings":
+					{
+						"buffer_size": 459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								456,
+								456
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 188.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"data",
+				"js/data.js"
+			],
+			[
+				"ma",
+				"js/map.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Marc/Dropbox/Clients/Dance Roads/mapping-project/danceroads-map.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true
+}
